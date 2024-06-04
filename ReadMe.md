@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 🚀 Hey! I'm Sahil, a tech enthusiast and student at Marwadi University 🎓. Currently exploring the fascinating world of Google Cloud Platform 🌐 to bridge tech with society. I'm all about making the digital future fair and accessible.<br>
+🔭 🚀 Hey! I'm Jadeja Mohitrajsinh, a tech enthusiast and student at Marwadi University 🎓. Currently exploring the fascinating world of Google Cloud Platform 🌐 to bridge tech with society. I'm all about making the digital future fair and accessible.<br>
 
 
 ## 🌐 Socials:
