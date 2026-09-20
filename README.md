@@ -15,12 +15,15 @@
 ---
 
 ### AI / ML
-Building intelligent systems with **ML, Deep Learning, Computer Vision & AI Engineering.**
+
+Building intelligent systems with **Machine Learning, Deep Learning, Computer Vision & AI Engineering.**
 
 ### Systems
+
 Working on **AI Security, System Design & reliable infrastructure.**
 
 ### Building
+
 Currently building **Forge** and exploring **AI × Product × Deep Tech.**
 
 ---
