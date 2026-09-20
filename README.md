@@ -2,107 +2,115 @@
 
 <img src="./asset/logo.svg" width="110" alt="Mohitrajsinh">
 
-# MOHITRAJSINH
+MOHITRAJSINH
 
-**AI / ML · Systems · Engineering**
+AI / ML Engineer · Builder · Systems Thinker
 
-[Portfolio](https://mohitrajsinh.me) ·
-[LinkedIn](https://linkedin.com/in/jadeja-mohitrajsinh) ·
-[GitHub](https://github.com/jadeja-mohitrajsinh)
+I build intelligent systems that are meant to work.
 
-</div>
-
----
-
-## AI / ML
-
-Designing and implementing intelligent systems across **Machine Learning, Deep Learning, Computer Vision, NLP, and AI Engineering.**
-
-## Systems
-
-Working across **system design, AI security, backend infrastructure, distributed systems, reliability, and cloud computing.**
-
-## Engineering
-
-Building software from **problem definition and architecture through implementation, experimentation, and deployment.**
-
-## Research
-
-Exploring ideas through **technical experiments, prototypes, applied research, and engineering studies.**
-
----
-
-## Technical Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square\&logo=javascript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square\&logo=postgresql\&logoColor=white)
-![R](https://img.shields.io/badge/R-111827?style=flat-square\&logo=r\&logoColor=white)
-
-### AI / ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square\&logo=tensorflow\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=flat-square\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square\&logo=numpy\&logoColor=white)
-
-### Backend & Systems
-
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111827?style=flat-square\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square\&logo=redis\&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-111827?style=flat-square\&logo=socket.io\&logoColor=white)
-
-### Cloud & Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square\&logo=amazon-web-services\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-111827?style=flat-square\&logo=google-cloud\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square\&logo=linux\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square\&logo=git\&logoColor=white)
-
----
-
-## Selected Work
-
-| Project       | Focus                                           |
-| ------------- | ----------------------------------------------- |
-| **Forge**     | AI · Fitness Intelligence · Product Engineering |
-| **AIRMS**     | AI Security · Privacy · Systems                 |
-| **FairSight** | ML · Bias Analysis · Responsible AI             |
-
-More → **[Portfolio](https://mohitrajsinh.me)**
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jadeja-mohitrajsinh&show_icons=true&hide_border=true&theme=transparent&title_color=E50914&text_color=9AA1AC&icon_color=E50914" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeja-mohitrajsinh&layout=compact&hide_border=true&theme=transparent&title_color=E50914&text_color=9AA1AC" height="170">
+Portfolio ·
+LinkedIn ·
+X ·
+YouTube ·
+Email
 
 </div>
 
----
+ABOUT
 
-## Contribution Graph
+I work at the intersection of AI, systems, security, and product engineering.
+
+My approach is simple:
+
+Understand → Design → Build → Measure → Improve
+
+I care about understanding problems deeply and turning ideas into
+reliable, measurable, deployable systems.
+
+BUILDING
+
+FORGE
+
+AI × Fitness
+
+Adaptive training, workout intelligence, progression,
+recovery, and analytics.
+
+AIRMS
+
+AI × Security
+
+A local-first security layer for intelligent applications,
+focused on PII protection, policy enforcement, and auditability.
+
+RESEARCH
+
+Exploring:
+
+AI Agents · Computer Vision · Responsible AI
+· AI Security · System Design · Deep Tech
+
+STACK
+
+AI / ML
+
+Python PyTorch TensorFlow Scikit-learn Keras
+Pandas NumPy OpenCV Matplotlib Plotly
+
+Engineering
+
+React Next.js Node.js TypeScript JavaScript
+Express MongoDB Redis Socket.io
+
+Cloud / Infrastructure
+
+AWS Google Cloud Docker Kubernetes
+GitHub Actions Nginx Firebase Vercel
+
+Tools
+
+Git GitHub Postman Jira Notion Linux
+
+GITHUB
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jadeja-mohitrajsinh&bg_color=05070A&color=9AA1AC&line=E50914&point=F5F5F5&area=true&hide_border=true">
+<img
+src="https://github-readme-stats.vercel.app/api?username=jadeja-mohitrajsinh&show_icons=true&hide_border=true&bg_color=05070A&title_color=E50914&text_color=9AA1AC&icon_color=E50914"
+height="165"
+alt="GitHub Stats"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeja-mohitrajsinh&layout=compact&hide_border=true&bg_color=05070A&title_color=E50914&text_color=9AA1AC"
+height="165"
+alt="Top Languages"
+/>
+
+<br><br>
+
+<img
+src="https://streak-stats.demolab.com/?user=jadeja-mohitrajsinh&hide_border=true&background=05070A&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=9AA1AC&dates=59616D"
+height="165"
+alt="GitHub Streak"
+/>
 
 </div>
 
----
+PRINCIPLES
+
+01  Understand the problem.
+02  Build from fundamentals.
+03  Measure what matters.
+04  Ship the system.
+05  Improve relentlessly.
 
 <div align="center">
 
-**BUILD · STUDY · EXPERIMENT**
+BUILD · EXPERIMENT · SHIP
+
+MOHITRAJSINH
+
+<sub>AI · Systems · Product · Deep Tech</sub>
 
 </div>
